@@ -1,0 +1,22 @@
+{
+    "files": {
+        "main.css": "https://madedwi.github.io/examples/todo-list/static/css/main.99be1a78.chunk.css",
+        "main.js": "https://madedwi.github.io/examples/todo-list/static/js/main.d2c3bced.chunk.js",
+        "main.js.map": "https://madedwi.github.io/examples/todo-list/static/js/main.d2c3bced.chunk.js.map",
+        "runtime-main.js": "https://madedwi.github.io/examples/todo-list/static/js/runtime-main.c4e589e9.js",
+        "runtime-main.js.map": "https://madedwi.github.io/examples/todo-list/static/js/runtime-main.c4e589e9.js.map",
+        "static/js/2.f6c627ce.chunk.js": "https://madedwi.github.io/examples/todo-list/static/js/2.f6c627ce.chunk.js",
+        "static/js/2.f6c627ce.chunk.js.map": "https://madedwi.github.io/examples/todo-list/static/js/2.f6c627ce.chunk.js.map",
+        "static/js/3.3bf874fa.chunk.js": "https://madedwi.github.io/examples/todo-list/static/js/3.3bf874fa.chunk.js",
+        "static/js/3.3bf874fa.chunk.js.map": "https://madedwi.github.io/examples/todo-list/static/js/3.3bf874fa.chunk.js.map",
+        "index.html": "/index.html",
+        "static/css/main.99be1a78.chunk.css.map": "https://madedwi.github.io/examples/todo-list/static/css/main.99be1a78.chunk.css.map",
+        "static/js/2.f6c627ce.chunk.js.LICENSE.txt": "https://madedwi.github.io/examples/todo-list/static/js/2.f6c627ce.chunk.js.LICENSE.txt"
+    },
+    "entrypoints": [
+        "static/js/runtime-main.c4e589e9.js",
+        "static/js/2.f6c627ce.chunk.js",
+        "static/css/main.99be1a78.chunk.css",
+        "static/js/main.d2c3bced.chunk.js"
+    ]
+}
